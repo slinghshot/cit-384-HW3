@@ -1,4 +1,6 @@
-# lab_instructions.txt
+# Homework 3 - CIT384
 
-Start with that file 
+Access the site here <a href="https://hw3.ssingh.info">Here</a> <br />
+
+Index.html is only there to redirect to intro.html file.
 
